@@ -23,15 +23,15 @@ module.exports = {
       options: {
         navigation: [
           {
-            title: `Blog`,
+            title: `Блог`,
             slug: `/blog`,
           },
           {
-            title: `About`,
+            title: `О нас`,
             slug: `/about`,
           },
           {
-            title: `Contact`,
+            title: `Контакты`,
             slug: `/contacts`,
           },
         ],
